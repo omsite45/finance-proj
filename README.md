@@ -1,1 +1,2 @@
 # finance-proj
+# THIS PROJECT IS QUITE INTERESTING
