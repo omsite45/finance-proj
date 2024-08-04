@@ -15,7 +15,7 @@ pipeline {
     
     stage('Package') {
       steps {
-      echo "Package completed successful" 
+      echo "Package completed successful awesome for feature4" 
       }
     }
     
