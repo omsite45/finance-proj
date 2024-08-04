@@ -25,11 +25,15 @@ pipeline {
     
     stage('Deploy') {
       steps {
+ feature3
  feature-rp-5002
       echo "Deploy completed successful awesome" 
 
       echo "Deploy completed successful" 
  feature3
+
+      echo "Deploy completed successful awesome" 
+ main
       }
   }
   
