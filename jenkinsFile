@@ -14,14 +14,22 @@ pipeline {
     }
     
     stage('Package') {
-      steps {
+      steps {  
+ feature-rp-5002 
       echo "Package completed successful awesome for feature4" 
+
+      echo "Package completed successful" 
+ feature3  
       }
     }
     
     stage('Deploy') {
       steps {
+ feature-rp-5002
       echo "Deploy completed successful awesome" 
+
+      echo "Deploy completed successful" 
+ feature3
       }
   }
   
